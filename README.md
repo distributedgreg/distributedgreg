@@ -11,4 +11,4 @@
 
 #### Bio
 
-I'm a seasoned tech veteran with experience in a wide variety of technical and business environments. I've done eveything from rexx automation on S/390 mainframes in the US, to ruby and python test frameworks at retail startups in Europe, to Java API clients at multinational banks, to PHP web development as an independent contractor, and just about everything else in between. 
+Born and raised in Chicago. Presently living in Oxford, UK. I'm a veteran tech nerd with a wide array of experiences. I'm most experienced with Java, but my favorite modern programming language is Python. My favorite all-time programming language is Rexx. I like tinkering with Atari 8-bit and old MS DOS computers in my free time. You can watch me here, if you're bored: https://rumble.com/c/gmgauthier2
