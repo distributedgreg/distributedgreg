@@ -1,7 +1,6 @@
 # Greg Gauthier
 
-### Test Automation Specialist
-### Software Development Engineer In Test
+### Test Automation And QA Specialist
 
 |         |         |                     
 | :----------- | :-------------- | 
