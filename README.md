@@ -1,5 +1,8 @@
 # Greg Gauthier
 
+## Test Automation Specialist
+## Software Development Engineer In Test
+
 |         |         |                     
 | :----------- | :-------------- | 
 | phone | +44 07910094267 | 
