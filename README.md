@@ -7,6 +7,7 @@
 | LinkedIn | https://www.linkedin.com/in/gregorygauthier/ |
 | work email  | greg.gauthier@distributed.com | 
 | personal email | greg@gmgauthier.com |
+| personal repos | https://repos.gmgauthier.com/gmgauthier |
 
 #### Bio
 
